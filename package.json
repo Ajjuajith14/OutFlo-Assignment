@@ -10,10 +10,13 @@
         "build:client": "cd client && npm run build",
         "build:server": "cd server && npm run build",
         "build": "npm run build:server && npm run build:client",
+        "build:netlify": "npm install && npm run build:server && npm run build:client && npm run create:functions",
+        "create:functions": "mkdir -p netlify/functions && cp -r server/dist netlify/functions/api-dist",
         "postinstall": "npm run install:all"
       },
       "dependencies": {
-        "concurrently": "^8.2.0"
+        "concurrently": "^8.2.0",
+        "serverless-http": "^3.2.0"
       },
       "engines": {
         "node": ">=16.0.0"
