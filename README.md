@@ -35,3 +35,4 @@ Campaign management system with personalized LinkedIn message generation.
 ![Screenshot 2025-04-17 135330](https://github.com/user-attachments/assets/cf73bce1-89dd-4564-aec9-31a1885a43a7)
 ![Screenshot 2025-04-17 135330](https://github.com/user-attachments/assets/4d790a53-57b4-4e44-a1e2-cf8764655234)
 ![Screenshot 2025-04-17 135320](https://github.com/user-attachments/assets/4c16fc84-e69e-424b-9627-32b64f2c296a)
+![Screenshot 2025-04-17 135342](https://github.com/user-attachments/assets/af7bcb1a-95b9-4a43-a4cf-a48601edf12b)
